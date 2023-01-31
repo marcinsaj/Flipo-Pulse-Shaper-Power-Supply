@@ -1,4 +1,7 @@
-# Flipo-Pulse-Shaper-Power-Supply
+## Flipo-Pulse-Shaper-Power-Supply
+
+<a href="https://www.buymeacoffee.com/marcinsaj"><img src="https://github.com/marcinsaj/marcinsaj/blob/main/Buy-me-a-coffee.png" /></a> 
+</br>
 
  - [Project website](https://flipo.io/project/flip-disc-power-supply/)
  - [Pulse Shaper Power Supply schematic](https://github.com/marcinsaj/Flipo-Pulse-Shaper-Power-Supply/raw/main/datasheet/Flipo-Pulse-Shaper-Power-Supply-for-Flip-disc-Displays-Schematic.pdf)
@@ -13,4 +16,4 @@
 
 -------------------------------------------------------------------  
 
-<a href="https://flipo.io/project/flip-disc-power-supply"><img src="https://github.com/marcinsaj/Flipo-Pulse-Shaper-Power-Supply/blob/main/extras/flip-disc-power-supply-module-cover-github.jpg"></a> 
+<a href="https://flipo.io/project/flip-disc-power-supply"><img src="https://github.com/marcinsaj/Flipo-Pulse-Shaper-Power-Supply/blob/main/extras/flip-disc-power-supply-module-cover-github.jpg"></a>
